@@ -11,7 +11,7 @@ const image_sources = [
 ];
 
 const img_count = 3
-const img_size = 300;
+const img_size = 350;
 const placed_pos = []
 
 
